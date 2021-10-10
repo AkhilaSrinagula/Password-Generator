@@ -28,9 +28,9 @@ And finally when all the prompts are answered there is a unique password generat
 
 A generate button which will send a series of prompts.
  
- ![Webpage with the prompts](assets/Webpage.png)
+ ![Webpage with the prompts](Assets/Webpage.png)
 
 
 And when all the information is collected a unique password is created and is displayed in the box.
 
-![Webpage with the password](assets/Webpage2.png)
+![Webpage with the password](Assets/Webpage2.png)
