@@ -1,7 +1,7 @@
 # Password-Generator
 Password Generator emphasizes the use of Javascript to generate a random, secure password for the user.
 
-This Project has been deployed to GitHub pages, and has been build with 
+This Project has been deployed to GitHub pages, and is built with 
 
 HTML
 
@@ -13,9 +13,9 @@ Javascript
 # Getting Started
 To get this project up and running, please follow the links below
 
-URL Link:
+URL Link: https://akhilasrinagula.github.io/Password-Generator/
 
-Repo Link:
+Repo Link: https://github.com/AkhilaSrinagula/Password-Generator.git
 
 HTML,CSS and Javascript helps to create a random password generator
 This emphasizes the use of Javascript to make dynamic changes. which has helped in creating and making it work fine.
@@ -33,4 +33,4 @@ A generate button which will send a series of prompts.
 
 And when all the information is collected a unique password is created and is displayed in the box.
 
-![Webpage with the prompts](assets/Webpage2.png)
+![Webpage with the password](assets/Webpage2.png)
